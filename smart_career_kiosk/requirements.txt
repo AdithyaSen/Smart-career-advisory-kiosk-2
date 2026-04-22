@@ -1,0 +1,27 @@
+# Core (no install needed for demo – Python stdlib only)
+# Uncomment below for production ML capabilities
+
+# Machine Learning
+# torch>=2.0.0
+# transformers>=4.35.0
+# scikit-learn>=1.3.0
+# numpy>=1.24.0
+# pandas>=2.0.0
+
+# NLP
+# spacy>=3.7.0
+# nltk>=3.8.0
+
+# Security
+# cryptography>=41.0.0
+
+# API integrations
+# requests>=2.31.0
+# httpx>=0.25.0
+
+# UI (production touchscreen)
+# PyQt6>=6.5.0
+# Pillow>=10.0.0
+
+# Testing
+pytest>=7.4.0
